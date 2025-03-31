@@ -20,9 +20,10 @@
   <img align="center" alt="Davi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Davi-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Davi-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="right" alt="Davi-Jirayia" height="110" width="150" src="https://media.discordapp.net/attachments/495618120094973953/1356286809646043266/jiraiya-naruto.gif?ex=67ec0406&is=67eab286&hm=c80a582685cb41b4b48c7415996c40dd1fc1a8ae0842f0c1dec76880c4a31e4a&=">  
 </div>
 
-##
+###
 
 <div> 
   <a href="https://www.instagram.com/framos.jpg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,7 +33,6 @@
   <a href="https://leetcode.com/u/davirframos/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> 
 </div>
 
-##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davirframos/davirframos/output/github-contribution-grid-snake-dark.svg">
