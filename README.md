@@ -30,4 +30,7 @@
   <a href="https://www.linkedin.com/in/davi-ramos-b21bb3238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="https://github.com/davirframos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
   <a href="https://leetcode.com/u/davirframos/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> 
+
+![Snake animation](https://github.com/davirframos)
+
 </div>
