@@ -7,7 +7,7 @@
 <div>
   <a href="https://www.linkedin.com/in/davi-ramos-b21bb3238/">
    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=davirframos&show_icons=true&theme=midnight-purple">   
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirframos&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirframos&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
   <div style="display: inline_block"><br>
